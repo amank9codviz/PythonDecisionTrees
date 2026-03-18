@@ -1,4 +1,5 @@
 Automated Classification Engine: Botanical Product Taxonomy
+
 📌 Executive Summary
 This project provides an automated machine learning solution for classifying physical products based on their dimensional attributes. By leveraging ensemble learning and decision tree algorithms, this engine eliminates manual sorting processes and provides a highly accurate, scalable framework for product categorization.
 
